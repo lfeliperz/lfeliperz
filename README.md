@@ -11,4 +11,4 @@
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/95446275/199621643-09ab86d6-519d-4926-ad71-84316f093dd3.svg)
 
-![angular](https://user-images.githubusercontent.com/95446275/199733748-5ed64525-edc5-4226-b820-a0f80797e5f2.svg)
+<img align="center" alt="Python" height="30" width="40" src="https://user-images.githubusercontent.com/95446275/199733748-5ed64525-edc5-4226-b820-a0f80797e5f2.svg">
