@@ -15,4 +15,4 @@
 
 
 https://user-images.githubusercontent.com/95446275/199734507-a4517df2-98b9-453a-8dac-94699f8a0ade.svg
-https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/angular-original.svg
+https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/angularjs-original.svg
