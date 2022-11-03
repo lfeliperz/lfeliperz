@@ -12,3 +12,4 @@
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/95446275/199621643-09ab86d6-519d-4926-ad71-84316f093dd3.svg)
 
 
+![angular-icon-1](https://user-images.githubusercontent.com/95446275/199734507-a4517df2-98b9-453a-8dac-94699f8a0ade.svg)
