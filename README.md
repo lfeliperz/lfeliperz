@@ -16,4 +16,3 @@
 </div>
   
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/95446275/199621643-09ab86d6-519d-4926-ad71-84316f093dd3.svg)
-gruvbox_light
