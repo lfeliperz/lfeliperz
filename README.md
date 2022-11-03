@@ -9,7 +9,5 @@
 <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-____
-
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/95446275/199621643-09ab86d6-519d-4926-ad71-84316f093dd3.svg)
 
