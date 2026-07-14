@@ -16,11 +16,11 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/Análisis%20de%20datos-7c3aed?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Business%20Intelligence-7c3aed?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visualización%20de%20datos-059669?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dashboards-7c3aed?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/GA4%20%2B%20GTM-059669?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-7c3aed?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Business%20Intelligence-059669?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visualización%20de%20datos-7c3aed?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dashboards-059669?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/GA4%20%2B%20GTM-7c3aed?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-059669?style=for-the-badge&logoColor=white"/>
 </p>
  
 </div>
