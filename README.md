@@ -14,11 +14,8 @@
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/95446275/199621643-09ab86d6-519d-4926-ad71-84316f093dd3.svg)
 
-<h3 align="center">📊 Especialidades</h3>
-
 <p align="center">
 <img src="https://img.shields.io/badge/Análisis%20de%20datos-7c3aed?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Marketing%20Analytics-059669?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Business%20Intelligence-7c3aed?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visualización%20de%20datos-059669?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dashboards-7c3aed?style=for-the-badge&logoColor=white"/>
