@@ -1,4 +1,4 @@
-<h1 align="center"> GREETINGS TRAVELER! </h1>
+<h1 align="center"> DATA ANALYST </h1>
   
 <br>
   
