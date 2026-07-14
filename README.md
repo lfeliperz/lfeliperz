@@ -1,7 +1,8 @@
 <h1 align="center"> DATA ANALYST </h1>
   
 <br>
-  
+
+  🐍 Python   🗄 SQL   📊 Power BI   📈 Looker Studio   📉 GA4   🏷 GTM   🌱 Git
 <div style="display: inline_block" align="center">
   •
    <img align="center" alt="Power BI" height="30" width="30" src="https://img.icons8.com/color/48/power-bi.png">
