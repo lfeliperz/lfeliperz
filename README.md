@@ -5,7 +5,7 @@
 <div style="display: inline_block" align="center">
   •
    <img align="center" alt="GTM" height="30" width="30" src="https://img.icons8.com/color/48/google-tag-manager.png">
-   <img align="center" alt="GA4" height="30" width="30" src="https://img.icons8.com/color/48/google-analytics.png"> 
+   <img align="center" alt="GA4" height="30" width="30" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-analytics.svg"> 
    <img align="center" alt="Looker Studio" height="30" width="30" src="https://img.icons8.com/color/48/google-data-studio.png"> 
    <img align="center" alt="Power BI" height="30" width="30" src="https://img.icons8.com/color/48/power-bi.png">
    <img align="center" alt="SQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
